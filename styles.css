@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px 2px 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  color:#1e90ff;
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color:#66BFBF;
+}
+.a {
+   color: #11999E;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.intro {
+  color: #40514E
+}
+.skill {
+  font-size: 2rem;
+}
+
+
+.TOP-CONTAINER {
+  background-color:yellow;
+  padding-top: 100px
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  width: 5%;
+}
+.mountain {
+  height: 300px;
+  width: 500px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.alan {
+  height: 200px;
+  width:200px;
+  border-radius: 50%;
+}
+.computer {
+  border-radius:50%;
+  width: 25%;
+  margin-right:20px;
+  float: left;
+}
+
+.dis {
+  word-spacing: 5px;
+}
+.ios {
+  border-radius: 50%;
+  width: 25%;
+  margin-right:30px;
+  float: right;
+}
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color:#EAF6F6;
+}
+.COPYRIGHT {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.git {
+  font-size: 2rem
+}
+.bottom-container {
+  background-color: lightblue;
+  padding: 50px 0 20px;
+}
